@@ -1082,6 +1082,11 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
+"@jibestream-dev/jmap-mapui-kit@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@jibestream-dev/jmap-mapui-kit/-/jmap-mapui-kit-1.0.2.tgz#bf711257fff911ee43846561434e0c6428eee10b"
+  integrity sha512-u7TR4KGaul56VKCfZOoYfMR041AyO65Fmmsxda8dRtiIOKyxLieWjzWzuYvmssJYK5JLf5yN0bExnh38+NzR+Q==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -5497,6 +5502,11 @@ jest@24.7.1:
     import-local "^2.0.0"
     jest-cli "^24.7.1"
 
+jmap.js@^4.6.4:
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/jmap.js/-/jmap.js-4.6.4.tgz#5f288abaa491f94efab6e4c0a833da374cf7fc44"
+  integrity sha512-E1i5ytlDfFJ4UQ5hnqOeDREFkkxUN+mPeAGCuoQaKH7J9NLtkER1U7Bi/hyjYrUF4XKdMvQnRJP16agSpZRCZA==
+
 js-levenshtein@^1.1.3:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/js-levenshtein/-/js-levenshtein-1.1.6.tgz#c6cee58eb3550372df8deb85fad5ce66ce01d59d"
@@ -7846,7 +7856,7 @@ react-dev-utils@^9.0.1:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@16.8.6:
+react-dom@^16.8.6:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
   integrity sha512-1nL7PIq9LTL3fthPqwkvr2zY7phIPjYrT0jp4HjyEQrEROnw4dG41VVwi/wfoCneoleqrNX7iAD+pXebJZwrwA==
@@ -7926,7 +7936,7 @@ react-scripts@3.0.1:
   optionalDependencies:
     fsevents "2.0.6"
 
-react@16.8.6:
+react@^16.8.6:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react/-/react-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
   integrity sha512-pC0uMkhLaHm11ZSJULfOBqV4tIZkx87ZLvbbQYunNixAAvjnC+snJCg0XQXn9VIsttVsbZP/H/ewzgsd5fxKXw==
